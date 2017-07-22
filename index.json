@@ -1,10 +1,10 @@
-﻿{
-	"lb":["http://192.168.0.114/json/index/lb1.jpg",
-		  "http://192.168.0.114/json/index/lb1.jpg",
-		  "http://192.168.0.114/json/index/lb1.jpg"],
-	"activity":["http://192.168.0.114/json/index/activity_hyqd.png",
-				"http://192.168.0.114/json/index/activity_yhj.png",
-				"http://192.168.0.114/json/index/activity_yhhd.png",
-				"http://192.168.0.114/json/index/activity_qyfl.png"],
+{
+	"lb":["https://raw.githubusercontent.com/dqchdjm/wecatMuYing/gh-pages/index/lb1.jpg",
+	      "https://raw.githubusercontent.com/dqchdjm/wecatMuYing/gh-pages/index/lb1.jpg",
+	      "https://raw.githubusercontent.com/dqchdjm/wecatMuYing/gh-pages/index/lb1.jpg"],
+	"activity":["https://raw.githubusercontent.com/dqchdjm/wecatMuYing/gh-pages/index/activity_hyqd.png",
+		    "https://raw.githubusercontent.com/dqchdjm/wecatMuYing/gh-pages/index/activity_yhj.png",
+		    "https://raw.githubusercontent.com/dqchdjm/wecatMuYing/gh-pages/index/activity_yhhd.png",
+		    "https://raw.githubusercontent.com/dqchdjm/wecatMuYing/gh-pages/index/activity_qyfl.png"],
 	"activity_name":["会员签到","优惠卷","银行活动","企业福利"]
 }
